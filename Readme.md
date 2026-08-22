@@ -1,220 +1,168 @@
-<p align="center">
+# Vinay S H
 
-<img width="700" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,100:00FFFF&text=Vinay%20S%20H&fontColor=FFFFFF&fontSize=60&animation=fadeIn">
+**Full-stack Developer** | React • Node.js • Django
 
-</p>
-
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?color=00FFFF&size=25&center=true&lines=Full+Stack+Developer;Code.+Build.+Deploy.;React+%7C+Node+%7C+Django">
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b40-fcbf-4a71-b8fb-93f8de1a7dcb.gif" width="250">
-
-</p>
-
-
-## 👨‍💻 About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-- 🎓 Computer Science Engineering Graduate  
-- 💻 Full Stack Developer  
-- 🚀 Building scalable web applications  
-- 🌱 Learning Backend Systems & Cloud  
-- 🧠 Practicing Data Structures and Algorithms  
-- 💬 Ask me about React, Node.js, Django, Python  
-- 📍 Bengaluru, India  
-
-
-<br clear="right"/>
-
-
-## 🛠️ Tech Stack
-
-
-### 👨‍💻 Programming Languages
-
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**[Portfolio](https://vinaysh-portfolio.vercel.app)** | [LinkedIn](https://www.linkedin.com/in/vinay-sh-636a71288/) | [Twitter](https://x.com/Sh__vinay) | [Email](mailto:shvinaysiddhu@gmail.com)
 
 
 ---
 
+## About
 
-### 🎨 Frontend Development
+I'm a full-stack developer focused on building clean, responsive web solutions. I work across the entire stack from frontend design and user interfaces to backend logic, database architecture, and deployment.
 
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+I enjoy taking ideas from concept to production, handling everything needed to ship working software. Currently interested in real-time applications, scalable backend systems, and cloud deployment.
 
 ---
 
+## Tech Stack
 
-### ⚙️ Backend Development
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT_AUTHENTICATION-000000?style=for-the-badge&logo=jsonwebtokens)
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodejs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
 
----
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/ORACLE_DATABASE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-
-
----
-
-
-### 🧠 Core Concepts
-
-![OOP](https://img.shields.io/badge/OOP-Object_Oriented_Programming-blue?style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-green?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-black?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-purple?style=for-the-badge)
-![SDLC](https://img.shields.io/badge/SDLC-Agile_Methodologies-orange?style=for-the-badge)
-
-
----
-
-
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman)
-![VSCode](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ](https://img.shields.io/badge/INTELLIJ_IDEA-black?style=for-the-badge&logo=intellijidea)
-![PyCharm](https://img.shields.io/badge/PYCHARM-21D789?style=for-the-badge&logo=pycharm)
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
-![VisualStudio](https://img.shields.io/badge/VISUAL_STUDIO-5C2D91?style=for-the-badge&logo=visualstudio)
-
+**Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
+## Featured Projects
 
-## 🚀 Featured Projects
+### Real-Time Multiplayer Chess Platform
 
-
-### ♟️ Real-Time Multiplayer Chess Platform
+A full-stack multiplayer chess application with live gameplay synchronization, player matchmaking, in-game chat, move timers, and Elo rating system.
 
 **Tech Stack:** React | TypeScript | Node.js | Express.js | WebSockets | PostgreSQL
 
-A full-stack multiplayer chess application with real-time gameplay.
+**Features:**
+- Real-time chess moves using WebSockets
+- Secure player authentication
+- Live player matchmaking system
+- Move timers and game state synchronization
+- Elo rating calculation and player rankings
+
+[Live Demo](https://chess-app-s8cf.onrender.com/) | [Repository](https://github.com/ShViNaY/Chess.app)
+
+### Agency.ai
+
+A responsive digital agency landing page with service sections, portfolio showcase, team profiles, and lead-generation contact flows. Built with modern frontend tooling and smooth animations.
+
+**Tech Stack:** React | Vite | TypeScript | JavaScript | Tailwind CSS | Framer Motion
 
 **Features:**
-- ♟️ Real-time chess matches using WebSockets
-- 🔐 Secure authentication system
-- ⚔️ Player matchmaking
-- ⏱️ Live game synchronization
-- 💬 In-game communication
-- 📊 Elo rating system
+- Fully responsive design
+- Smooth page animations and transitions
+- Service section showcase
+- Contact form integration
+- Team profile section
 
+[Live Demo](https://agency-ai-green.vercel.app/) | [Repository](https://github.com/ShViNaY/Agency.Ai)
 
----
+### Blog Creation Platform
 
-### 🤖 Agency.Ai
-
-**Tech Stack:** React.js | Tailwind CSS | JavaScript
-
-A modern agency website platform providing digital services.
-
-**Features:**
-- 📱 Fully responsive UI
-- 🎨 Modern React components
-- 🚀 Fast and optimized frontend
-- 📢 Service sections for advertising and marketing
-
-
----
-
-### 📝 Blog Creation Platform
+A full-stack blog management system with authentication, role-based access control, and database-driven content management.
 
 **Tech Stack:** Python | Django | MySQL | HTML | CSS | Bootstrap
 
-A full-stack blog management web application.
-
 **Features:**
-- ✍️ Create, update and manage blog posts
-- 🔑 Authentication and role based access
-- 🗄️ Database driven content management
-- ⚙️ Backend CRUD operations
+- Create, update, and delete blog posts
+- User authentication and registration
+- Role-based access control
+- Responsive blog interface
+- Search and filter functionality
 
+[Live Demo](https://blogflow-s6wp.onrender.com/) | [Repository](https://github.com/ShViNaY/Blog_creation-)
 
----
+### Food Delivery System
 
-### 🍔 Food Delivery System
+A responsive food ordering web application with restaurant listings, menu browsing, and order workflow design.
 
 **Tech Stack:** HTML | CSS | JavaScript
 
-A food ordering web application interface.
-
 **Features:**
-- 🍕 Restaurant and food listing UI
-- 🛒 Order workflow design
-- 📱 Responsive layouts
+- Restaurant and food item listings
+- Menu browsing interface
+- Shopping cart functionality
+- Responsive order workflow
 
+[Repository](https://github.com/ShViNaY/)
 
----
+### Book Recommendation System
 
-### 📚 Book Recommendation System
+A machine learning-based recommendation engine that provides personalized book suggestions using collaborative filtering and similarity-based algorithms.
 
 **Tech Stack:** Python | Machine Learning | Pandas | NumPy | Scikit-Learn
 
-A machine learning recommendation engine.
-
 **Features:**
-- 📖 Personalized book suggestions
-- 🔍 Similarity based recommendations
-- 📊 Data preprocessing
-- 🤖 ML model implementation
+- Content-based recommendation algorithm
+- Data preprocessing and cleaning
+- Similarity calculations
+- Personalized book suggestions
 
-## 📊 GitHub Analytics
-
-
-<p align="center">
-
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShViNaY&theme=tokyonight&hide_border=true" />
-
-</p>
+[Repository](https://github.com/ShViNaY/)
 
 ---
 
+## Experience
 
-## 🌐 Connect With Me
+### Software Development Intern
+**WebsmartIndia**
 
+Developed a healthcare management system enabling patients to check doctor availability, review doctor ratings, and book appointments. The application streamlined appointment scheduling and improved patient experience.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay%20S%20H-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-sh-636a71288/)
-
+**Key Work:**
+- Built doctor availability and appointment booking workflows using Python and Django
+- Designed responsive patient interfaces using HTML, CSS, Bootstrap, and JavaScript
+- Implemented CRUD operations, validation logic, and MySQL database integration
+- Managed version control and continuous feature development with Git and GitHub
+- Collaborated on debugging and code optimization
 
 ---
 
-<div align="center">
+## Currently Exploring
 
-### ⭐ Code • Build • Learn • Improve
+Backend systems and cloud architecture | Real-time application design | Data structures and algorithms
 
-</div>
+---
+
+## Connect
+
+Have a project in mind or want to discuss development work? Feel free to reach out.
+
+[Email](mailto:shvinaysiddhu@gmail.com) | [Portfolio](https://vinaysh-portfolio.vercel.app) | [LinkedIn](https://www.linkedin.com/in/vinay-sh-636a71288/) | [GitHub](https://github.com/ShViNaY)
