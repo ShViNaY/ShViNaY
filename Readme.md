@@ -28,7 +28,7 @@ I enjoy taking ideas from concept to production, handling everything needed to s
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -36,11 +36,12 @@ I enjoy taking ideas from concept to production, handling everything needed to s
 ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodejs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
 
 **Databases**  
@@ -63,6 +64,21 @@ I enjoy taking ideas from concept to production, handling everything needed to s
 ---
 
 ## Featured Projects
+
+### ReportPilot
+
+A multi-tenant marketing analytics platform for agencies to track campaigns, visualize performance, manage team access, and share secure client reporting portals.
+
+**Tech Stack:** Next.js | React | TypeScript | Supabase | PostgreSQL | Tailwind CSS | Recharts | Framer Motion
+
+**Features:**
+- Multi-tenant architecture with separate workspaces for each agency
+- Campaign tracking and performance monitoring
+- Interactive charts and data visualizations
+- Team access management with role-based permissions
+- Secure client reporting portals for sharing results
+
+[Live Demo](https://report-pilot-omega.vercel.app/) | [Repository](https://github.com/ShViNaY/ReportPilot)
 
 ### Real-Time Multiplayer Chess Platform
 
