@@ -63,6 +63,28 @@ I enjoy taking ideas from concept to production, handling everything needed to s
 
 ---
 
+## Experience
+
+### Software Development Intern
+**WebsmartIndia**
+
+Developed a healthcare management system enabling patients to check doctor availability, review doctor ratings, and book appointments. The application streamlined appointment scheduling and improved patient experience.
+
+**Key Work:**
+- Built doctor availability and appointment booking workflows using Python and Django
+- Designed responsive patient interfaces using HTML, CSS, Bootstrap, and JavaScript
+- Implemented CRUD operations, validation logic, and MySQL database integration
+- Managed version control and continuous feature development with Git and GitHub
+- Collaborated on debugging and code optimization
+
+---
+
+## Currently Exploring
+
+Backend systems and cloud architecture | Real-time application design | Data structures and algorithms
+
+---
+
 ## Featured Projects
 
 ### ReportPilot
@@ -152,28 +174,6 @@ A machine learning-based recommendation engine that provides personalized book s
 - Personalized book suggestions
 
 [Repository](https://github.com/ShViNaY/)
-
----
-
-## Experience
-
-### Software Development Intern
-**WebsmartIndia**
-
-Developed a healthcare management system enabling patients to check doctor availability, review doctor ratings, and book appointments. The application streamlined appointment scheduling and improved patient experience.
-
-**Key Work:**
-- Built doctor availability and appointment booking workflows using Python and Django
-- Designed responsive patient interfaces using HTML, CSS, Bootstrap, and JavaScript
-- Implemented CRUD operations, validation logic, and MySQL database integration
-- Managed version control and continuous feature development with Git and GitHub
-- Collaborated on debugging and code optimization
-
----
-
-## Currently Exploring
-
-Backend systems and cloud architecture | Real-time application design | Data structures and algorithms
 
 ---
 
